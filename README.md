@@ -2,7 +2,7 @@
 ## Dashboard Preview
 
 
-
+![Dashboard](Screenshot 2026-06-07 135130.png)
 
 ## Overview
 
