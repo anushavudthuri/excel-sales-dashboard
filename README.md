@@ -1,7 +1,7 @@
 # Excel Sales Dashboard
 ## Dashboard Preview
 
-![Uploading image.png…]()
+
 
 
 ## Overview
